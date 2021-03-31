@@ -26,4 +26,4 @@ client.once('ready', () => {
 
 client.on('error', (error) => console.error(error));
 
-client.login('NzYzNTI0MjAxMDYzMjUxOTY4.X349Uw.ObFet30yzODuz8Otxn13XVG3WJw');
+client.login('API_KEY');
